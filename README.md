@@ -1,10 +1,15 @@
+Spatiotemporal Variation in Nitrogen Wet Deposition and Precipitation in New Hampshire
+
 Project Goals:
 This project aims to determine seasonal and interannual variability in inorganic and organic nitrogen wet deposition at two sites in New Hampshire. It also assess if local-scale differences in deposition magnitude and timing exist by comparing long term nitrogen wet deposition data between the two sites. By comparing multiple nitrogen species, this study evaluates how local conditions influence nitrogen inputs to ecosystems.
 
 Project Files:
 This jupyter notebook contains the project description along with data analysis and code to determine intra and inter-annual N variabilty between the two sites.
+An environment yml file and a jpeg showing site locations.
 
 Project Data:
-The data folder contains four raw data files.
+The data folder contains three raw data files. 
+
+*The foruth raw data file used to get CRN precipitation values was too large to add. I submitted it separately on Canvas.
 
 
