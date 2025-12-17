@@ -10,6 +10,7 @@ Th jupyter notebook contains the project description along with data analysis an
 An environment file and jpg showing site locations are included.
 
 Project Data:
+
 The data folder contains three raw data files. Two files are for Thompson Farm (one with deposition data and the other QA/QC information). The NTN file is TF wet deposition data from the NADP.
 
 *The foruth raw data file used to get CRN precipitation values for TF was too large to add. I submitted it separately on Canvas.
