@@ -14,4 +14,4 @@ The data folder contains three raw data files. Two files are for Thompson Farm (
 
 *The foruth raw data file used to get CRN precipitation values for TF was too large to add. I submitted it separately on Canvas.
 
-
+[https://mybinder.org/v2/gh/paolamiramontes/Precipitaiton_Project](https://mybinder.org/v2/gh/paolamiramontes/Precipitaiton_Project/HEAD)
